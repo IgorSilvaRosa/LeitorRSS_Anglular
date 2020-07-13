@@ -1,0 +1,18 @@
+{
+  "RSS": [
+    {
+      "id": 1,
+      "Nome": "Globo.com kk",
+      "Categoria": "ESPORTE",
+      "RSS": "",
+      "Observacao": "Observação Globo"
+    },
+    {
+      "id": 2,
+      "Nome": "Placar UOL",
+      "Categoria": "Esporte",
+      "RSS": "www.placarUOL.com.br",
+      "Observacao": "noticias de futebol"
+    }
+  ]
+}
